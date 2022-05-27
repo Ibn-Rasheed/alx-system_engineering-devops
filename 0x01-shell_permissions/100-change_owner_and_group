@@ -1,2 +1,2 @@
 #!/bin/bash
-chown recent:vincent:staff *
+chown recent:vincent:staff*
